@@ -3,6 +3,6 @@
 </div>
 
 
-- 🔭 I’m currently working on frontend projects
+- 🔭 I am currently working as a Frontend Developer
 - 📫 Reach me at : mert@akkan.dev
 
