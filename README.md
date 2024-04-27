@@ -3,7 +3,7 @@
 </div>
 
 ### About Me :
-- 🔭 I am currently working as a Frontend Developer
+- 🔭 Freelance Full-Stack Developer
 - 📫 Reach me at : mert@akkan.dev
 
 ---
