@@ -3,7 +3,7 @@
 </div>
 
 ### About Me :
-- 🔭 Freelance Full-Stack Developer
+- 🔭 Software Developer (Open For Work)
 - 📫 Reach me at : mert@akkan.dev
 
 ---
